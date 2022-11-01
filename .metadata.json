@@ -2,5 +2,9 @@
   {
     "package": "crypto2",
     "oncran": true
+  },
+  {
+    "package": "FFdownload",
+    "oncran": true
   }
 ]
